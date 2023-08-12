@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661261470323",
+    "project_id": "trinetra-eye-of-the-community3",
+    "storage_bucket": "trinetra-eye-of-the-community3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661261470323:android:0b109d9eb5b0113e6b3806",
+        "android_client_info": {
+          "package_name": "com.example.trinetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661261470323-qam2g929ed111plf53espe0e2fkn8j6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDau_DCggY2b4Kyq1Ivl83hw-tlE67ruag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661261470323-qam2g929ed111plf53espe0e2fkn8j6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
